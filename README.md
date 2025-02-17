@@ -1,5 +1,5 @@
 <h1 align="center">Nouh Rastanawi</h1>
-<h3 align="center">Software Developer | Front-End & Back-End Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 ## Skills
 
@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![PHP](https://img.shields.io/badge/-php-000?&logo=php)
 
 ### Frontend development:
 &emsp;
@@ -17,11 +17,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=mui)
 
 ### Backend development:
 &emsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 
 ### Misc tools:
 &emsp;
